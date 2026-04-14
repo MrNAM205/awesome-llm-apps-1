@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "awesome-llm-apps"
+version = "0.1.0"
+description = "A local-first vector store for chat harvesting and embedding."
+authors = ["Shubhamsaboo <your_email@example.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+sentence-transformers = "^2.2.0"
+faiss-cpu = "^1.7.0"
+selenium = "^4.1.0"
+sqlite = "^3.36.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

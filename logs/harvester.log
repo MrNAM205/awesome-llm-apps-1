@@ -1,0 +1,67 @@
+2026-04-12 22:23:48,402 [INFO] Attaching to Edge on 127.0.0.1:9222
+2026-04-12 22:49:51,155 [INFO] Attaching to Chrome on 127.0.0.1:9222
+2026-04-12 22:49:52,559 [INFO] Attached to Chrome session
+2026-04-12 22:49:52,559 [INFO] Locating sidebar chat list
+2026-04-12 22:49:52,598 [INFO] Found 20 chats in sidebar
+2026-04-12 22:49:52,704 [INFO] Saved screenshot: logs\screenshots\20260412_224952_sidebar_initial.png
+2026-04-12 22:49:52,704 [INFO] Processing chat index 0
+2026-04-12 22:49:52,742 [INFO] Opening chat: Building_a_Chat_History_Harvester_Bot
+2026-04-12 22:49:55,328 [INFO] Saved screenshot: logs\screenshots\20260412_224955_chat_0_opened.png
+2026-04-12 22:49:55,339 [ERROR] Error during harvesting: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[data-message-container]"}
+  (Session info: chrome=147.0.7727.56); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6c8f90295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff6c8f90300+14740]
+	chromedriver!(No symbol) [0x7ff6c8cfd7cd]
+	chromedriver!(No symbol) [0x7ff6c8d56c4e]
+	chromedriver!(No symbol) [0x7ff6c8d56f5c]
+	chromedriver!(No symbol) [0x7ff6c8da7cc7]
+	chromedriver!(No symbol) [0x7ff6c8da4818]
+	chromedriver!(No symbol) [0x7ff6c8d49018]
+	chromedriver!(No symbol) [0x7ff6c8d49f03]
+	chromedriver!GetHandleVerifier [0x7ff6c92a5949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff6c929fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff6c92c3102+347542]
+	chromedriver!GetHandleVerifier [0x7ff6c8fad425+31865]
+	chromedriver!GetHandleVerifier [0x7ff6c8fb605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff6c8f99684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff6c8f99836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff6c8f7e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffe5ee2e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffe6036c48c+2c]
+Traceback (most recent call last):
+  File "C:\Users\Sir\Desktop\awesome-llm-apps-1\src\harvester.py", line 96, in harvest_all_chats
+    container = driver.find_element(By.CSS_SELECTOR, "[data-message-container]")
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sir\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 823, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Sir\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 450, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Sir\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[data-message-container]"}
+  (Session info: chrome=147.0.7727.56); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6c8f90295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff6c8f90300+14740]
+	chromedriver!(No symbol) [0x7ff6c8cfd7cd]
+	chromedriver!(No symbol) [0x7ff6c8d56c4e]
+	chromedriver!(No symbol) [0x7ff6c8d56f5c]
+	chromedriver!(No symbol) [0x7ff6c8da7cc7]
+	chromedriver!(No symbol) [0x7ff6c8da4818]
+	chromedriver!(No symbol) [0x7ff6c8d49018]
+	chromedriver!(No symbol) [0x7ff6c8d49f03]
+	chromedriver!GetHandleVerifier [0x7ff6c92a5949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff6c929fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff6c92c3102+347542]
+	chromedriver!GetHandleVerifier [0x7ff6c8fad425+31865]
+	chromedriver!GetHandleVerifier [0x7ff6c8fb605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff6c8f99684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff6c8f99836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff6c8f7e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffe5ee2e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffe6036c48c+2c]
+
+2026-04-12 22:49:55,437 [INFO] Saved screenshot: logs\screenshots\20260412_224955_error.png
+2026-04-12 22:49:55,437 [INFO] Harvesting complete

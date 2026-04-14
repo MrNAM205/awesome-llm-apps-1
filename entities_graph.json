@@ -1,0 +1,371 @@
+{
+  "Excellent": {
+    "mentions": [
+      {
+        "chat": "Building a Chat History Harvester Bot",
+        "count": 1
+      }
+    ],
+    "relationships": {}
+  },
+  "Daddy\u20148": {
+    "mentions": [
+      {
+        "chat": "Choosing the Right CPU Option on Hugging Face",
+        "count": 1
+      }
+    ],
+    "relationships": {
+      "Let\u2019s": {
+        "weight": 1,
+        "evidence": [
+          "You picked a fun constraint build, Daddy\u20148 GB RAM, 11th\u2011gen i7, CPU\u2011only. Let\u2019s squeeze everything o..."
+        ]
+      }
+    }
+  },
+  "CPU\u2011only": {
+    "mentions": [
+      {
+        "chat": "Choosing the Right CPU Option on Hugging Face",
+        "count": 1
+      }
+    ],
+    "relationships": {
+      "Daddy\u20148": {
+        "weight": 1,
+        "evidence": [
+          "You picked a fun constraint build, Daddy\u20148 GB RAM, 11th\u2011gen i7, CPU\u2011only. Let\u2019s squeeze everything o..."
+        ]
+      },
+      "Let\u2019s": {
+        "weight": 1,
+        "evidence": [
+          "You picked a fun constraint build, Daddy\u20148 GB RAM, 11th\u2011gen i7, CPU\u2011only. Let\u2019s squeeze everything o..."
+        ]
+      }
+    }
+  },
+  "Let\u2019s": {
+    "mentions": [
+      {
+        "chat": "Choosing the Right CPU Option on Hugging Face",
+        "count": 1
+      }
+    ],
+    "relationships": {}
+  },
+  "Daddy\u2026": {
+    "mentions": [
+      {
+        "chat": "Creating a Local AI Assistant Like OpenJarvis",
+        "count": 1
+      },
+      {
+        "chat": "Fixing Missing Gradio Module Error",
+        "count": 1
+      }
+    ],
+    "relationships": {
+      "This": {
+        "weight": 2,
+        "evidence": [
+          "Daddy\u2026\nThis error tells me one thing with 100% certainty:...",
+          "Daddy\u2026\nThis is exactly the right moment to pause and correct one misunderstanding:..."
+        ]
+      }
+    }
+  },
+  "This": {
+    "mentions": [
+      {
+        "chat": "Creating a Local AI Assistant Like OpenJarvis",
+        "count": 1
+      },
+      {
+        "chat": "Fixing Missing Gradio Module Error",
+        "count": 1
+      }
+    ],
+    "relationships": {}
+  },
+  "I\u2019ve": {
+    "mentions": [
+      {
+        "chat": "Exploring Google Drive Insights",
+        "count": 1
+      }
+    ],
+    "relationships": {}
+  },
+  "Alright": {
+    "mentions": [
+      {
+        "chat": "Fixing Gemini API Permission Error",
+        "count": 1
+      },
+      {
+        "chat": "Fixing Ollama Timeouts on USB Tethering",
+        "count": 1
+      }
+    ],
+    "relationships": {
+      "Daddy": {
+        "weight": 1,
+        "evidence": [
+          "Alright Daddy \u2014 you asked for \u201cshow me what to delete safely.\u201d  \nSo I\u2019m going to give you the exact ..."
+        ]
+      },
+      "Ollama": {
+        "weight": 1,
+        "evidence": [
+          "Alright, this output tells me exactly what\u2019s happening \u2014 and why your Ollama pulls keep timing out...."
+        ]
+      }
+    }
+  },
+  "Daddy": {
+    "mentions": [
+      {
+        "chat": "Fixing Gemini API Permission Error",
+        "count": 1
+      },
+      {
+        "chat": "Help with Instagram Reel Processing",
+        "count": 1
+      },
+      {
+        "chat": "Organizing and Consolidating Code Repositories",
+        "count": 1
+      }
+    ],
+    "relationships": {
+      "Instagram": {
+        "weight": 1,
+        "evidence": [
+          "Daddy, Instagram blocks all automated scraping, so the fetch tool can\u2019t pull the content directly \u2014 ..."
+        ]
+      },
+      "You\u2019ve": {
+        "weight": 1,
+        "evidence": [
+          "Daddy, this is the moment where OmniVerobrix stops pretending to be a desktop app and becomes a real..."
+        ]
+      },
+      "OmniVerobrix": {
+        "weight": 1,
+        "evidence": [
+          "Daddy, this is the moment where OmniVerobrix stops pretending to be a desktop app and becomes a real..."
+        ]
+      }
+    }
+  },
+  "Ollama": {
+    "mentions": [
+      {
+        "chat": "Fixing Ollama Timeouts on USB Tethering",
+        "count": 1
+      }
+    ],
+    "relationships": {}
+  },
+  "Instagram": {
+    "mentions": [
+      {
+        "chat": "Help with Instagram Reel Processing",
+        "count": 1
+      }
+    ],
+    "relationships": {}
+  },
+  "Here\u2019s": {
+    "mentions": [
+      {
+        "chat": "Herbal Remedies for Hidradenitis Suppurativa",
+        "count": 1
+      }
+    ],
+    "relationships": {}
+  },
+  "OmniVerobrix": {
+    "mentions": [
+      {
+        "chat": "Organizing and Consolidating Code Repositories",
+        "count": 1
+      }
+    ],
+    "relationships": {
+      "You\u2019ve": {
+        "weight": 1,
+        "evidence": [
+          "Daddy, this is the moment where OmniVerobrix stops pretending to be a desktop app and becomes a real..."
+        ]
+      }
+    }
+  },
+  "You\u2019ve": {
+    "mentions": [
+      {
+        "chat": "Organizing and Consolidating Code Repositories",
+        "count": 3
+      }
+    ],
+    "relationships": {}
+  },
+  "Phase": {
+    "mentions": [
+      {
+        "chat": "Troubleshooting WSL and VS Code Integration",
+        "count": 1
+      }
+    ],
+    "relationships": {
+      "Step": {
+        "weight": 1,
+        "evidence": [
+          "Phase F Step 3 is locked in \u2014 and now we move into the moment where OVB stops \u201cidling\u201d and starts pe..."
+        ]
+      }
+    }
+  },
+  "Step": {
+    "mentions": [
+      {
+        "chat": "Troubleshooting WSL and VS Code Integration",
+        "count": 1
+      }
+    ],
+    "relationships": {}
+  },
+  "Before": {
+    "mentions": [
+      {
+        "chat": "Troubleshooting WSL and VS Code Integration",
+        "count": 1
+      }
+    ],
+    "relationships": {
+      "Phase": {
+        "weight": 1,
+        "evidence": [
+          "Phase F Step 3 is locked in \u2014 and now we move into the moment where OVB stops \u201cidling\u201d and starts pe..."
+        ]
+      },
+      "Step": {
+        "weight": 1,
+        "evidence": [
+          "Phase F Step 3 is locked in \u2014 and now we move into the moment where OVB stops \u201cidling\u201d and starts pe..."
+        ]
+      }
+    }
+  },
+  "Edge": {
+    "mentions": [
+      {
+        "chat": "Understanding Microsoft Edge Version Number",
+        "count": 3
+      }
+    ],
+    "relationships": {
+      "Settings": {
+        "weight": 1,
+        "evidence": [
+          "The text you asked about \u2014 \u201c146.0.3856.109\u201d \u2014 makes sense once you look at the surrounding page cont..."
+        ]
+      },
+      "It\u2019s": {
+        "weight": 1,
+        "evidence": [
+          "The text you asked about \u2014 \u201c146.0.3856.109\u201d \u2014 makes sense once you look at the surrounding page cont..."
+        ]
+      },
+      "Microsoft": {
+        "weight": 1,
+        "evidence": [
+          "The text you asked about \u2014 \u201c146.0.3856.109\u201d \u2014 makes sense once you look at the surrounding page cont..."
+        ]
+      }
+    }
+  },
+  "Settings": {
+    "mentions": [
+      {
+        "chat": "Understanding Microsoft Edge Version Number",
+        "count": 1
+      }
+    ],
+    "relationships": {}
+  },
+  "It\u2019s": {
+    "mentions": [
+      {
+        "chat": "Understanding Microsoft Edge Version Number",
+        "count": 1
+      }
+    ],
+    "relationships": {
+      "Settings": {
+        "weight": 1,
+        "evidence": [
+          "The text you asked about \u2014 \u201c146.0.3856.109\u201d \u2014 makes sense once you look at the surrounding page cont..."
+        ]
+      },
+      "Microsoft": {
+        "weight": 1,
+        "evidence": [
+          "The text you asked about \u2014 \u201c146.0.3856.109\u201d \u2014 makes sense once you look at the surrounding page cont..."
+        ]
+      }
+    }
+  },
+  "Microsoft": {
+    "mentions": [
+      {
+        "chat": "Understanding Microsoft Edge Version Number",
+        "count": 2
+      }
+    ],
+    "relationships": {
+      "Settings": {
+        "weight": 1,
+        "evidence": [
+          "The text you asked about \u2014 \u201c146.0.3856.109\u201d \u2014 makes sense once you look at the surrounding page cont..."
+        ]
+      }
+    }
+  },
+  "About": {
+    "mentions": [
+      {
+        "chat": "Understanding Microsoft Edge Version Number",
+        "count": 1
+      }
+    ],
+    "relationships": {
+      "Settings": {
+        "weight": 1,
+        "evidence": [
+          "The text you asked about \u2014 \u201c146.0.3856.109\u201d \u2014 makes sense once you look at the surrounding page cont..."
+        ]
+      },
+      "Edge": {
+        "weight": 1,
+        "evidence": [
+          "The text you asked about \u2014 \u201c146.0.3856.109\u201d \u2014 makes sense once you look at the surrounding page cont..."
+        ]
+      },
+      "It\u2019s": {
+        "weight": 1,
+        "evidence": [
+          "The text you asked about \u2014 \u201c146.0.3856.109\u201d \u2014 makes sense once you look at the surrounding page cont..."
+        ]
+      },
+      "Microsoft": {
+        "weight": 1,
+        "evidence": [
+          "The text you asked about \u2014 \u201c146.0.3856.109\u201d \u2014 makes sense once you look at the surrounding page cont..."
+        ]
+      }
+    }
+  }
+}

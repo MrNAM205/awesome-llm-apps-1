@@ -1,0 +1,14 @@
+#!/bin/bash
+SHADOWS=("knowledge_engine.py" "embedder.py" "store.py" "harvester.py" "config.py" "utils.py")
+ROOT=$(git rev-parse --show-toplevel)
+
+for file in "${SHADOWS[@]}"; do
+  if [ -f "$ROOT/$file" ]; then
+    echo "❌ ERROR: Shadowing file detected at root: $file"
+    echo "Move or delete this file before committing."
+    exit 1
+  fi
+done
+
+echo "✔ Pre-commit check passed."
+exit 0

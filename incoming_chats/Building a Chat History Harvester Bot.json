@@ -1,0 +1,8 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "Excellent \u2014 updating the selectors and adding the fallback helper was the critical move.\nNow we need to verify harvesting actually works end\u2011to\u2011end, because this is the foundation the entire cockpit and OVB project stand on."
+    }
+  ]
+}

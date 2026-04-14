@@ -1,0 +1,16 @@
+{
+  "entity_counts": {
+    "Daddy": 1,
+    "Instagram": 1
+  },
+  "map": {
+    "Daddy": {
+      "Instagram": {
+        "strength": 1,
+        "evidence": [
+          "Daddy, Instagram blocks all automated scraping, so the fetch tool can\u2019t pull the content directly \u2014 ..."
+        ]
+      }
+    }
+  }
+}

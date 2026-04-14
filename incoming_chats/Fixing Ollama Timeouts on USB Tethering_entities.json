@@ -1,0 +1,16 @@
+{
+  "entity_counts": {
+    "Alright": 1,
+    "Ollama": 1
+  },
+  "map": {
+    "Alright": {
+      "Ollama": {
+        "strength": 1,
+        "evidence": [
+          "Alright, this output tells me exactly what\u2019s happening \u2014 and why your Ollama pulls keep timing out...."
+        ]
+      }
+    }
+  }
+}

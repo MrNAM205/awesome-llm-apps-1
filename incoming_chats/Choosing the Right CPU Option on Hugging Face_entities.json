@@ -1,0 +1,31 @@
+{
+  "entity_counts": {
+    "Daddy\u20148": 1,
+    "CPU\u2011only": 1,
+    "Let\u2019s": 1
+  },
+  "map": {
+    "CPU\u2011only": {
+      "Daddy\u20148": {
+        "strength": 1,
+        "evidence": [
+          "You picked a fun constraint build, Daddy\u20148 GB RAM, 11th\u2011gen i7, CPU\u2011only. Let\u2019s squeeze everything o..."
+        ]
+      },
+      "Let\u2019s": {
+        "strength": 1,
+        "evidence": [
+          "You picked a fun constraint build, Daddy\u20148 GB RAM, 11th\u2011gen i7, CPU\u2011only. Let\u2019s squeeze everything o..."
+        ]
+      }
+    },
+    "Daddy\u20148": {
+      "Let\u2019s": {
+        "strength": 1,
+        "evidence": [
+          "You picked a fun constraint build, Daddy\u20148 GB RAM, 11th\u2011gen i7, CPU\u2011only. Let\u2019s squeeze everything o..."
+        ]
+      }
+    }
+  }
+}

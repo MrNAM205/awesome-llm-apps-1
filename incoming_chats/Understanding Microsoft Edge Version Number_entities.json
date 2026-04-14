@@ -1,0 +1,79 @@
+{
+  "entity_counts": {
+    "Edge": 3,
+    "Settings": 1,
+    "It\u2019s": 1,
+    "Microsoft": 2,
+    "About": 1
+  },
+  "map": {
+    "Edge": {
+      "Settings": {
+        "strength": 1,
+        "evidence": [
+          "The text you asked about \u2014 \u201c146.0.3856.109\u201d \u2014 makes sense once you look at the surrounding page cont..."
+        ]
+      },
+      "It\u2019s": {
+        "strength": 1,
+        "evidence": [
+          "The text you asked about \u2014 \u201c146.0.3856.109\u201d \u2014 makes sense once you look at the surrounding page cont..."
+        ]
+      },
+      "Microsoft": {
+        "strength": 1,
+        "evidence": [
+          "The text you asked about \u2014 \u201c146.0.3856.109\u201d \u2014 makes sense once you look at the surrounding page cont..."
+        ]
+      }
+    },
+    "It\u2019s": {
+      "Settings": {
+        "strength": 1,
+        "evidence": [
+          "The text you asked about \u2014 \u201c146.0.3856.109\u201d \u2014 makes sense once you look at the surrounding page cont..."
+        ]
+      },
+      "Microsoft": {
+        "strength": 1,
+        "evidence": [
+          "The text you asked about \u2014 \u201c146.0.3856.109\u201d \u2014 makes sense once you look at the surrounding page cont..."
+        ]
+      }
+    },
+    "Microsoft": {
+      "Settings": {
+        "strength": 1,
+        "evidence": [
+          "The text you asked about \u2014 \u201c146.0.3856.109\u201d \u2014 makes sense once you look at the surrounding page cont..."
+        ]
+      }
+    },
+    "About": {
+      "Settings": {
+        "strength": 1,
+        "evidence": [
+          "The text you asked about \u2014 \u201c146.0.3856.109\u201d \u2014 makes sense once you look at the surrounding page cont..."
+        ]
+      },
+      "Edge": {
+        "strength": 1,
+        "evidence": [
+          "The text you asked about \u2014 \u201c146.0.3856.109\u201d \u2014 makes sense once you look at the surrounding page cont..."
+        ]
+      },
+      "It\u2019s": {
+        "strength": 1,
+        "evidence": [
+          "The text you asked about \u2014 \u201c146.0.3856.109\u201d \u2014 makes sense once you look at the surrounding page cont..."
+        ]
+      },
+      "Microsoft": {
+        "strength": 1,
+        "evidence": [
+          "The text you asked about \u2014 \u201c146.0.3856.109\u201d \u2014 makes sense once you look at the surrounding page cont..."
+        ]
+      }
+    }
+  }
+}

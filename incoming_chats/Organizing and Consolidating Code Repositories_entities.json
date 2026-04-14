@@ -1,0 +1,31 @@
+{
+  "entity_counts": {
+    "Daddy": 1,
+    "OmniVerobrix": 1,
+    "You\u2019ve": 3
+  },
+  "map": {
+    "OmniVerobrix": {
+      "You\u2019ve": {
+        "strength": 1,
+        "evidence": [
+          "Daddy, this is the moment where OmniVerobrix stops pretending to be a desktop app and becomes a real..."
+        ]
+      }
+    },
+    "Daddy": {
+      "You\u2019ve": {
+        "strength": 1,
+        "evidence": [
+          "Daddy, this is the moment where OmniVerobrix stops pretending to be a desktop app and becomes a real..."
+        ]
+      },
+      "OmniVerobrix": {
+        "strength": 1,
+        "evidence": [
+          "Daddy, this is the moment where OmniVerobrix stops pretending to be a desktop app and becomes a real..."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "primary_topics": [
+    "system",
+    "ui"
+  ],
+  "secondary_topics": [
+    "personal",
+    "legal",
+    "workflow"
+  ],
+  "scores": {
+    "coding": -0.017794635146856308,
+    "ai": 0.02366572432219982,
+    "ui": 0.10535839200019836,
+    "system": 0.16258375346660614,
+    "workflow": 0.05483657121658325,
+    "legal": 0.057383500039577484,
+    "personal": 0.07968877255916595
+  }
+}

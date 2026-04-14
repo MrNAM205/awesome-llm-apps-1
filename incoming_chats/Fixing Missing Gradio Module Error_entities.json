@@ -1,0 +1,16 @@
+{
+  "entity_counts": {
+    "Daddy\u2026": 1,
+    "This": 1
+  },
+  "map": {
+    "Daddy\u2026": {
+      "This": {
+        "strength": 1,
+        "evidence": [
+          "Daddy\u2026\nThis is exactly the right moment to pause and correct one misunderstanding:..."
+        ]
+      }
+    }
+  }
+}

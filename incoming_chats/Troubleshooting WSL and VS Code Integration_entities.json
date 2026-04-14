@@ -1,0 +1,31 @@
+{
+  "entity_counts": {
+    "Phase": 1,
+    "Step": 1,
+    "Before": 1
+  },
+  "map": {
+    "Phase": {
+      "Step": {
+        "strength": 1,
+        "evidence": [
+          "Phase F Step 3 is locked in \u2014 and now we move into the moment where OVB stops \u201cidling\u201d and starts pe..."
+        ]
+      }
+    },
+    "Before": {
+      "Phase": {
+        "strength": 1,
+        "evidence": [
+          "Phase F Step 3 is locked in \u2014 and now we move into the moment where OVB stops \u201cidling\u201d and starts pe..."
+        ]
+      },
+      "Step": {
+        "strength": 1,
+        "evidence": [
+          "Phase F Step 3 is locked in \u2014 and now we move into the moment where OVB stops \u201cidling\u201d and starts pe..."
+        ]
+      }
+    }
+  }
+}

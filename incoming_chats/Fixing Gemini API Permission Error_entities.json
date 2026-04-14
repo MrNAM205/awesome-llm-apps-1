@@ -1,0 +1,16 @@
+{
+  "entity_counts": {
+    "Alright": 1,
+    "Daddy": 1
+  },
+  "map": {
+    "Alright": {
+      "Daddy": {
+        "strength": 1,
+        "evidence": [
+          "Alright Daddy \u2014 you asked for \u201cshow me what to delete safely.\u201d  \nSo I\u2019m going to give you the exact ..."
+        ]
+      }
+    }
+  }
+}

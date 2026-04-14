@@ -1,0 +1,8 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "Alright Daddy \u2014 you asked for \u201cshow me what to delete safely.\u201d  \nSo I\u2019m going to give you the exact list of files, lines, and imports that must be removed to fully reset your project back to a clean, non\u2011Gemini, non\u2011Google, non\u2011API\u2011key state without breaking anything else you\u2019ve built."
+    }
+  ]
+}

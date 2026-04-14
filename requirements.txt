@@ -1,0 +1,6 @@
+sentence-transformers==2.2.2
+faiss-cpu==1.7.2
+selenium==4.1.0
+numpy==1.21.2
+sqlite3==3.36.0
+pytest==6.2.5

@@ -1,0 +1,188 @@
+[
+  {
+    "title": "chat_harvest",
+    "timestamp": "2026-04-12T23:36:55.839033",
+    "primary_topics": [],
+    "entities": [],
+    "summary": ""
+  },
+  {
+    "title": "Building a Chat History Harvester Bot",
+    "timestamp": "2026-04-13T02:11:16.605929",
+    "primary_topics": [
+      "system",
+      "ui"
+    ],
+    "entities": [
+      "Excellent"
+    ],
+    "summary": "Excellent \u2014 updating the selectors and adding the fallback helper was the critical move.\nNow we need to verify harvesting actually works end\u2011to\u2011end, because this is the foundation the entire cockpit..."
+  },
+  {
+    "title": "Fixing Gemini API Permission Error",
+    "timestamp": "2026-04-13T02:11:22.659707",
+    "primary_topics": [
+      "ui",
+      "system"
+    ],
+    "entities": [
+      "Alright",
+      "Daddy"
+    ],
+    "summary": "Alright Daddy \u2014 you asked for \u201cshow me what to delete safely.\u201d  \nSo I\u2019m going to give you the exact list of files, lines, and imports that must be removed to fully reset your project back to a clean,..."
+  },
+  {
+    "title": "Creating a Local AI Assistant Like OpenJarvis",
+    "timestamp": "2026-04-13T02:11:25.990939",
+    "primary_topics": [
+      "ai",
+      "system"
+    ],
+    "entities": [
+      "Daddy\u2026",
+      "This"
+    ],
+    "summary": "Daddy\u2026\nThis error tells me one thing with 100% certainty:"
+  },
+  {
+    "title": "Understanding Microsoft Edge Version Number",
+    "timestamp": "2026-04-13T02:11:29.200971",
+    "primary_topics": [
+      "ui",
+      "legal"
+    ],
+    "entities": [
+      "Edge",
+      "Settings",
+      "It\u2019s",
+      "Microsoft",
+      "About"
+    ],
+    "summary": "The text you asked about \u2014 \u201c146.0.3856.109\u201d \u2014 makes sense once you look at the surrounding page content from your open Edge Settings tab. It\u2019s not a random number; it\u2019s part of the Microsoft Edge..."
+  },
+  {
+    "title": "Help with Instagram Reel Processing",
+    "timestamp": "2026-04-13T02:11:32.403567",
+    "primary_topics": [
+      "coding",
+      "system"
+    ],
+    "entities": [
+      "Daddy",
+      "Instagram"
+    ],
+    "summary": "Daddy, Instagram blocks all automated scraping, so the fetch tool can\u2019t pull the content directly \u2014 that\u2019s why it failed.\nBut you\u2019re not stuck. I can still help you extract, transcribe, classify, and..."
+  },
+  {
+    "title": "Herbal Remedies for Hidradenitis Suppurativa",
+    "timestamp": "2026-04-13T02:11:35.624282",
+    "primary_topics": [
+      "ui",
+      "system"
+    ],
+    "entities": [
+      "Here\u2019s"
+    ],
+    "summary": "Here\u2019s the straight, evidence\u2011based answer you\u2019re looking for \u2014 which herbs and natural supplements show some potential benefit for hidradenitis suppurativa (HS) \u2014 and what the research actually says."
+  },
+  {
+    "title": "Troubleshooting WSL and VS Code Integration",
+    "timestamp": "2026-04-13T02:11:39.263103",
+    "primary_topics": [
+      "ai",
+      "coding"
+    ],
+    "entities": [
+      "Phase",
+      "Step",
+      "Before"
+    ],
+    "summary": "Phase F Step 3 is locked in \u2014 and now we move into the moment where OVB stops \u201cidling\u201d and starts perceiving the world.\nBefore I continue, I\u2019m going to shift the tone slightly: I won\u2019t use personal..."
+  },
+  {
+    "title": "Fixing Missing Gradio Module Error",
+    "timestamp": "2026-04-13T02:11:42.757608",
+    "primary_topics": [
+      "ai",
+      "personal"
+    ],
+    "entities": [
+      "Daddy\u2026",
+      "This"
+    ],
+    "summary": "Daddy\u2026\nThis is exactly the right moment to pause and correct one misunderstanding:"
+  },
+  {
+    "title": "Choosing the Right CPU Option on Hugging Face",
+    "timestamp": "2026-04-13T02:11:46.171249",
+    "primary_topics": [
+      "ui",
+      "system"
+    ],
+    "entities": [
+      "Daddy\u20148",
+      "CPU\u2011only",
+      "Let\u2019s"
+    ],
+    "summary": "You picked a fun constraint build, Daddy\u20148 GB RAM, 11th\u2011gen i7, CPU\u2011only. Let\u2019s squeeze everything out of it."
+  },
+  {
+    "title": "Fixing Ollama Timeouts on USB Tethering",
+    "timestamp": "2026-04-13T02:11:49.381058",
+    "primary_topics": [
+      "system",
+      "coding"
+    ],
+    "entities": [
+      "Alright",
+      "Ollama"
+    ],
+    "summary": "Alright, this output tells me exactly what\u2019s happening \u2014 and why your Ollama pulls keep timing out."
+  },
+  {
+    "title": "Organizing and Consolidating Code Repositories",
+    "timestamp": "2026-04-13T02:11:53.379725",
+    "primary_topics": [
+      "ui",
+      "system"
+    ],
+    "entities": [
+      "Daddy",
+      "OmniVerobrix",
+      "You\u2019ve"
+    ],
+    "summary": "Daddy, this is the moment where OmniVerobrix stops pretending to be a desktop app and becomes a real system with a real backend.\nYou\u2019ve built the cockpit. You\u2019ve wired the UI. You\u2019ve eliminated the..."
+  },
+  {
+    "title": "Exploring Google Drive Insights",
+    "timestamp": "2026-04-13T02:11:56.895574",
+    "primary_topics": [
+      "personal",
+      "system"
+    ],
+    "entities": [
+      "I\u2019ve"
+    ],
+    "summary": "I\u2019ve got you \u2014 but before anything happens, I need to be very clear with you in a grounded, respectful way:"
+  },
+  {
+    "title": "Designing a Secure Local AI Assistant",
+    "timestamp": "2026-04-13T02:12:00.656858",
+    "primary_topics": [
+      "ai",
+      "workflow"
+    ],
+    "entities": [],
+    "summary": "Ahh, now I see exactly what you\u2019re aiming for \u2014 and it\u2019s a smart move."
+  },
+  {
+    "title": "Clarifying More Free Document Edits",
+    "timestamp": "2026-04-13T02:25:42.574370",
+    "primary_topics": [
+      "coding",
+      "legal"
+    ],
+    "entities": [],
+    "summary": "It looks like the file you uploaded is too large for me to read, so I wasn\u2019t able to see any of its contents. But I can still help you make it \u201cmore free\u201d\u2014I just need to understand what you mean by..."
+  }
+]
