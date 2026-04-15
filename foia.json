@@ -1,0 +1,34 @@
+{
+  "key_concepts": [
+    "FOIA (Freedom of Information Act) allows public access to federal agency records.",
+    "State 'Sunshine Laws' provide similar access to state and local government records.",
+    "Public records can include emails, reports, maps, and database extracts.",
+    "Exemptions exist for privacy, national security, and law enforcement sensitive data.",
+    "Commercial Paper Tracing: FOIA can be used to request the general ledger entries and bond serial numbers associated with specific administrative case files."
+  ],
+  "common_documents": [
+    "Formal request letter",
+    "Proof of identity (sometimes required)",
+    "Fee waiver justification (if applicable)",
+    "Detailed description of records sought",
+    "CUSIP resolution worksheet"
+  ],
+  "typical_steps": [
+    "Identify the specific agency that likely holds the records.",
+    "Check the agency's FOIA handbook or website for submission instructions.",
+    "Draft a precise request to minimize 'vague' or 'overly burdensome' denials.",
+    "Specify the preferred format (e.g., digital JSON/CSV vs. Paper).",
+    "Track the statutory deadline for the agency's response.",
+    "Cross-reference FOIA results with EMMA bond filings to identify the funding source of the agency."
+  ],
+  "professionals": [
+    "Agency FOIA Officer",
+    "Public Records Custodian",
+    "Administrative Appeals Officer",
+    "Financial Transparency Researcher"
+  ],
+  "notes": [
+    "FOIA is a procedural tool for transparency, used in OVB to gather evidence of commercial accountability.",
+    "Timelines for responses vary significantly between state and federal levels."
+  ]
+}

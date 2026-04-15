@@ -6,7 +6,12 @@ from typing import List, Dict, Any
 INCOMING_DIR = Path("incoming_chats")
 MEMORY_ROOT = Path("memory")
 
-DOMAINS = ["technical", "legal", "personal", "media"]
+DOMAINS = ["technical", "legal", "personal", "media", "land_rights", "administrative", "foia", "housing", "bond_intelligence"]
+DOMAINS = [
+    "technical", "legal", "personal", "media",
+    "land_rights", "administrative", "foia",
+    "housing", "bond_intelligence", "status_correction", "negotiable_instruments"
+]
 
 
 def log(msg: str) -> None:
@@ -76,6 +81,29 @@ def classify_segment(text: str) -> Dict[str, Any]:
 
     if any(k in lower for k in ["statute", "probate", "contract", "law", "court"]):
         domain = "legal"
+    elif any(k in lower for k in ["ticket", "citation", "court date", "expired tag"]):
+        domain = "administrative"
+    elif any(k in lower for k in ["state national", "status correction", "nationality"]):
+        domain = "status_correction"
+    elif any(k in lower for k in [
+        "negotiable instrument", "ucc", "bill of exchange", "discharge", "endorsement"
+    ]):
+        domain = "negotiable_instruments"
+    elif any(k in lower for k in ["cusip", "municipal bond", "emma", "acfr", "cafr"]):
+        domain = "bond_intelligence"
+    elif any(k in lower for k in ["foia", "public records", "disclosure", "sunshine law"]):
+        domain = "foia"
+    elif any(k in lower for k in [
+        "boundary", "survey", "deed", "plat", "encroachment", "easement", 
+        "property line", "land", "neighbor dispute"
+    ]):
+        domain = "land_rights"
+    elif any(k in lower for k in ["lease", "landlord", "tenant", "eviction", "rent", "security deposit"]):
+    elif any(k in lower for k in [
+        "landlord", "tenant", "lease", "rental", "eviction",
+        "security deposit", "apartment", "housing"
+    ]):
+        domain = "housing"
     elif any(k in lower for k in ["gpu", "python", "selenium", "wsl", "driver", "chrome"]):
         domain = "technical"
     elif any(k in lower for k in ["family", "feel", "relationship", "friend"]):

@@ -1,0 +1,33 @@
+{
+  "key_concepts": [
+    "CUSIP (Committee on Uniform Securities Identification Procedures) is a unique 9-character identifier for North American financial instruments.",
+    "Municipal Bonds are debt securities issued by states, cities, or counties to fund capital projects.",
+    "Revenue Bonds are backed by specific income streams (e.g., tolls, hospital fees), whereas General Obligation (GO) bonds are backed by the 'full faith and credit' of the issuer.",
+    "Commercial Paper tracing involves correlating administrative case numbers with securities used to fund or insure the process.",
+    "CUSIP Prefix Resolution: The first 6 digits identify the issuer (e.g., a specific municipality)."
+  ],
+  "common_documents": [
+    "Official Statement (OS)",
+    "Comprehensive Annual Financial Report (CAFR/ACFR)",
+    "Indenture of Trust",
+    "EMMA (Electronic Municipal Market Access) filings",
+    "State File Number reports"
+  ],
+  "typical_steps": [
+    "Identify the issuer's 6-digit CUSIP prefix via the legal entity name.",
+    "Search the EMMA database for recent bond issuances by that municipality.",
+    "Analyze the bond type (GO vs. Revenue) to understand the funding source.",
+    "Correlate the issuance date with the specific era of administrative activity.",
+    "Use the FOIA Generator to request the commercial paper trail from the agency's finance department."
+  ],
+  "professionals": [
+    "Municipal Financial Advisor",
+    "Bond Counsel",
+    "Public Finance Analyst",
+    "Records Custodian (Finance Department)"
+  ],
+  "notes": [
+    "Municipal bond research is a key component of identifying the 'money of account' in administrative processes.",
+    "FOIA requests should specifically target the CUSIP serial numbers associated with the agency's credit facility."
+  ]
+}
